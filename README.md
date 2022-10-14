@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-⚡ I am a Software Developer, fast learner and solution-oriented. I am passionate about technology, innovation and solving problems.  
+⚡ I am a Software Developer passionate about technology, innovation and solving problems.  
 <br/><br/>
 🔭 My favourite tech stack: 
 <br/><br/>
